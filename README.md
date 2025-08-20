@@ -32,7 +32,7 @@ VITE_SUPABASE_ANON_KEY=your-anon-key
 Run development server:
 npm run dev
 
-Open http://localhost:3000
+Open http://dashboard-auth-full-stack.vercel.app
 
 🛠 Tech Stack
 Frontend: React, TypeScript, Tailwind CSS, React Hook Form, Recharts
